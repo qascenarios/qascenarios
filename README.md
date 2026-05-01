@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sulaimon Ekundayo
 
-💻 **| QA Engineer | Software Developer | DevOps | Data Engineering**
+💻 ** QA Engineer | Software Developer | DevOps | Data Engineering**
 
 I build reliable software, improve quality through testing, and support scalable systems with cloud and automation practices. My work spans application development, test engineering, DevOps, and data-driven solutions.
 
